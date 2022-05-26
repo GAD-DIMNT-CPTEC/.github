@@ -16,5 +16,5 @@ O Python tem se mestrado como uma ferramente poderosa para o grupo, seja na estr
 
 * Manual de uso utilizando a linguagem Markdown e o MkDocs: https://cfbastarz.github.io/GSIBerror/
 * Visualização direta de Notebooks do Jupyter: https://github.com/GAD-DIMNT-CPTEC/GSIBerror/blob/main/read_gsi_berror_python-class-final.ipynb
-* Utilização de Notebooks do Jupyter de um repositório diretamente com o Binder: https://mybinder.org/v2/gh/cfbastarz/GSIBerror/main
+* Utilização de Notebooks do Jupyter de um repositório diretamente com o Binder: https://mybinder.org/v2/gh/cfbastarz/SCANPLOT/master
 * Inclusão de arquivos binários em repositórios com o [Git Large File Storage (LFS)](https://git-lfs.github.com/): https://github.com/GAD-DIMNT-CPTEC/GSIBerror/tree/main/gcv
