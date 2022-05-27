@@ -18,3 +18,7 @@ O Python tem se mostrado como uma ferramenta poderosa para o grupo, seja na estr
 * Visualização direta de Notebooks do Jupyter: https://github.com/GAD-DIMNT-CPTEC/GSIBerror/blob/main/read_gsi_berror_python-class-final.ipynb
 * Utilização de Notebooks do Jupyter de um repositório diretamente com o Binder: https://mybinder.org/v2/gh/cfbastarz/SCANPLOT/master
 * Inclusão de arquivos binários em repositórios com o [Git Large File Storage (LFS)](https://git-lfs.github.com/): https://github.com/GAD-DIMNT-CPTEC/GSIBerror/tree/main/gcv
+
+## Alguns Guias Básicos
+
+Instruções rápidas de uso do `git` e da documentação através do `mkdocs`, podem ser encontradas em: https://github.com/CGCT-CPTEC-DIMNT/cgct-cptec-dimnt/wiki/Guia-B%C3%A1sico-de-Uso-do-Git
