@@ -12,7 +12,7 @@ O GitHub permite a organização de times de desenvolvimento que podem ser desta
 
 ## Outros Recursos
 
-O Python tem se mestrado como uma ferramente poderosa para o grupo, seja na estruturação dos dados com os quais lidamos, seja na sua visualização. Exemplos do que podemos fazer a partir do GitHub:
+O Python tem se mostrado como uma ferramenta poderosa para o grupo, seja na estruturação dos dados com os quais lidamos, seja na sua visualização. Exemplos do que podemos fazer a partir do GitHub:
 
 * Manual de uso utilizando a linguagem Markdown e o MkDocs: https://cfbastarz.github.io/GSIBerror/
 * Visualização direta de Notebooks do Jupyter: https://github.com/GAD-DIMNT-CPTEC/GSIBerror/blob/main/read_gsi_berror_python-class-final.ipynb
