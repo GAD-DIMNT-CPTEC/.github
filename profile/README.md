@@ -22,3 +22,10 @@ O Python tem se mostrado como uma ferramenta poderosa para o grupo, seja na estr
 ## Alguns Guias Básicos
 
 Instruções rápidas de uso do `git` e da documentação através do `mkdocs`, podem ser encontradas em: https://github.com/CGCT-CPTEC-DIMNT/cgct-cptec-dimnt/wiki/Guia-B%C3%A1sico-de-Uso-do-Git
+
+# Monitoramento Assimilação de Dados
+
+* https://gmao.gsfc.nasa.gov/forecasts/radmon_coverage.php
+* https://www.emc.ncep.noaa.gov/gmb/gdas/index.html
+* https://gmao.gsfc.nasa.gov/forecasts/systems/fp/obstat_time_series/index.html
+* https://space.oscar.wmo.int/
