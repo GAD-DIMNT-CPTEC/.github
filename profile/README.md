@@ -15,8 +15,8 @@ O GitHub permite a organização de times de desenvolvimento que podem ser desta
 O Python tem se mostrado como uma ferramenta poderosa para o grupo, seja na estruturação dos dados com os quais lidamos, seja na sua visualização. Exemplos do que podemos fazer a partir do GitHub:
 
 * Manual de uso utilizando a linguagem Markdown e o MkDocs: https://gad-dimnt-cptec.github.io/GSIBerror/
-* Visualização direta de Notebooks do Jupyter: https://github.com/GAD-DIMNT-CPTEC/GSIBerror/blob/main/read_gsi_berror_python-class-final.ipynb
-* Utilização de Notebooks do Jupyter de um repositório diretamente com o Binder: https://mybinder.org/v2/gh/cfbastarz/SCANPLOT/master
+* Visualização direta de Notebooks do Jupyter: https://github.com/GAD-DIMNT-CPTEC/GSIBerror/blob/main/read_gsi_berror_python-class-final-BCPTEC_hyb_coord.ipynb
+* Utilização de Notebooks do Jupyter de um repositório diretamente com o Binder: https://mybinder.org/v2/gh/cfbastarz/GSIBerror/main
 * Inclusão de arquivos binários em repositórios com o [Git Large File Storage (LFS)](https://git-lfs.github.com/): https://github.com/GAD-DIMNT-CPTEC/GSIBerror/tree/main/gcv
 
 ## Alguns Guias Básicos
