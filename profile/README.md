@@ -23,7 +23,9 @@ O Python tem se mostrado como uma ferramenta poderosa para o grupo, seja na estr
 
 Instruções rápidas de uso do `git` e da documentação através do `mkdocs`, podem ser encontradas em: https://github.com/CGCT-CPTEC-DIMNT/cgct-cptec-dimnt/wiki/Guia-B%C3%A1sico-de-Uso-do-Git
 
-# Monitoramento Assimilação de Dados
+# Links úteis
+
+## Monitoramento Assimilação de Dados
 
 * https://emc.ncep.noaa.gov/users/verification/global/gfs/ops/
 * https://gmao.gsfc.nasa.gov/forecasts/radmon_coverage.php
@@ -31,3 +33,14 @@ Instruções rápidas de uso do `git` e da documentação através do `mkdocs`, 
 * https://gmao.gsfc.nasa.gov/forecasts/systems/fp/obstat_time_series/index.html
 * https://space.oscar.wmo.int/
 * https://skylab.jcsda.org/
+
+## Dados de observação operacionais e arquivos
+
+* https://nomads.ncep.noaa.gov/pub/data/nccf/com/gfs/prod/
+* https://rda.ucar.edu/datasets/ds337.0/dataaccess/
+* https://ftp.ncep.noaa.gov/data/nccf/com/obsproc/prod/
+
+## Changelogs de outros centros
+
+* https://www.nco.ncep.noaa.gov/pmb/changes/gfs_upgrade.php
+* https://www.nco.ncep.noaa.gov/pmb/changes/
