@@ -39,6 +39,7 @@ Instruções rápidas de uso do `git` e da documentação através do `mkdocs`, 
 * https://nomads.ncep.noaa.gov/pub/data/nccf/com/gfs/prod/
 * https://rda.ucar.edu/datasets/ds337.0/dataaccess/
 * https://ftp.ncep.noaa.gov/data/nccf/com/obsproc/prod/
+* https://dataserver.cptec.inpe.br/dataserver_modelos/smna/brutos/
 
 ## Changelogs de outros centros
 
