@@ -33,6 +33,7 @@ Instruções rápidas de uso do `git` e da documentação através do `mkdocs`, 
 * https://gmao.gsfc.nasa.gov/forecasts/systems/fp/obstat_time_series/index.html
 * https://space.oscar.wmo.int/
 * https://skylab.jcsda.org/
+* https://hpfx.collab.science.gc.ca/~smco500/psmon/monitoring/
 
 ## Dados de observação operacionais e arquivos
 
