@@ -15,9 +15,9 @@ O GitHub permite a organização de times de desenvolvimento que podem ser desta
 O Python tem se mostrado como uma ferramenta poderosa para o grupo, seja na estruturação dos dados com os quais lidamos, seja na sua visualização. Exemplos do que podemos fazer a partir do GitHub:
 
 * Manual de uso utilizando a linguagem Markdown e o MkDocs: https://gad-dimnt-cptec.github.io/GSIBerror/
-* Visualização direta de Notebooks do Jupyter: https://github.com/GAD-DIMNT-CPTEC/GSIBerror/blob/main/read_gsi_berror_python-class-final-BCPTEC_hyb_coord.ipynb
+* Visualização direta de Notebooks do Jupyter: https://github.com/GAD-DIMNT-CPTEC/GSIBerror/blob/main/notebooks/read_gsi_berror_python-class-final-BCPTEC_hyb_coord.ipynb
 * Utilização de Notebooks do Jupyter de um repositório diretamente com o Binder: https://mybinder.org/v2/gh/cfbastarz/GSIBerror/main
-* Inclusão de arquivos binários em repositórios com o [Git Large File Storage (LFS)](https://git-lfs.github.com/): https://github.com/GAD-DIMNT-CPTEC/GSIBerror/tree/main/gcv
+* Inclusão de arquivos binários em repositórios com o [Git Large File Storage (LFS)](https://git-lfs.github.com/): https://github.com/GAD-DIMNT-CPTEC/GSIBerror/tree/main/data
 
 ## Alguns Guias Básicos
 
@@ -41,6 +41,10 @@ Instruções rápidas de uso do `git` e da documentação através do `mkdocs`, 
 * https://rda.ucar.edu/datasets/ds337.0/dataaccess/
 * https://ftp.ncep.noaa.gov/data/nccf/com/obsproc/prod/
 * https://dataserver.cptec.inpe.br/dataserver_modelos/smna/brutos/
+
+### Egeon
+
+* /oper/dados/dboper/raw/arch/mod/ncep/gdas/2024 
 
 ## Changelogs de outros centros
 
