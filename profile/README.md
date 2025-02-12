@@ -44,7 +44,7 @@ Instruções rápidas de uso do `git` e da documentação através do `mkdocs`, 
 
 ### Egeon
 
-* /oper/dados/dboper/raw/arch/mod/ncep/gdas/2024 
+* /oper/dados/dboper/raw/arch/mod/ncep/gdas/
 
 ## Changelogs de outros centros
 
